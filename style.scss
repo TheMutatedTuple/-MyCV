@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&family=Roboto:ital,wght@1,900&display=swap');
+*
+
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    background-image: url("candle.jpg");
+    background-size: 1px;
+}
+h1{
+    color: orange;
+    
+}
+h3{
+    color: rgba(255, 255, 255, 0.434);
+    
+}
+p{
+    color: rgb(239, 158, 235);
+    font-family: 'Montserrat', sans-serif ;
+    font-size: larger;
+    box-sizing: content-box;
+    width: 25%;
+    border: solid #bfc2d2 5px;
+    padding: none;
+    background-color: #000000;
+}
+#GitHub{
+    border-radius: 50%;
+    position:absolute; 
+    left:1500px; 
+    top:100px;
+}
+
