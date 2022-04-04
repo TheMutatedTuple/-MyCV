@@ -1,6 +1,4 @@
-$(function(){
-    alert("page loaded")
-});
+
 
 
 $(document).ready(function(){
