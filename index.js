@@ -1,6 +1,3 @@
-
-
-
 $(document).ready(function(){
     $(".card-header").click(function(){
     if($(this).next(".card-body").hasClass("active")){
